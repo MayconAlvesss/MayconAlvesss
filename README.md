@@ -1,72 +1,64 @@
 <div align="center">
-  <img src="header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/MayconAlvesss/EcoBIM-Logic/main/media/header.svg" width="100%" alt="Maycon Alves Header" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>BIM Developer | Full Stack AEC Solutions | Building Technician</h3>
-  <p><strong>Driven by code. Built for production. Bridging BIM and Software Engineering.</strong></p>
+  <h1>Maycon Alves ✨</h1>
+  <h3>BIM Developer | Full Stack AEC Tech Specialist | Future Missionary</h3>
+  
+  [![Mission Participation](https://img.shields.io/badge/2026--2028-Serving_Mission-blue?style=for-the-badge&logo=church-of-jesus-christ&logoColor=white)](https://www.churchofjesuschrist.org/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maycon-alves-a5b9402bb/)
 </div>
 
 ---
 
-### 🚀 Highlight Project
-
-<div align="center">
-  <a href="https://github.com/MayconAlvesss/EcoBIM-Logic">
-    <img src="eco_bim.svg" width="100%" />
-  </a>
-</div>
-
-> **[EcoBIM-Logic](https://github.com/MayconAlvesss/EcoBIM-Logic)** is a real-time BIM-to-LCA data orchestrator for embodied carbon and ESG metrics. It enables automated, high-fidelity sustainable design analysis directly within the AEC workflow.
+### 🏛️ Professional Statement
+> **"Bridging the physical and digital through high-fidelity AEC engineering."**  
+> I am a Building Technician and BIM Developer specializing in **interoperability**, **computational design**, and **AI-driven normative compliance**. Currently preparing for a 2-year volunteer mission (2026-2028), I leave behind a robust open-source ecosystem dedicated to advancing the global construction industry.
 
 ---
 
-### 📂 The AEC Tech Ecosystem
+### 📂 Leading AEC Repositories (The 9-Core Ecosystem)
 
-| Platform | Domain | Core Technologies |
-| :--- | :--- | :--- |
-| **[EcoBIM-Logic](https://github.com/MayconAlvesss/EcoBIM-Logic)** | LCA Orchestration | `Python`, `Revit API`, `Excel` |
-| **[Nexus-Twin](https://github.com/MayconAlvesss/Nexus-Twin)** | Digital Twin | `React`, `Three.js`, `FastAPI` |
-| **[production-dashboard-ai](https://github.com/MayconAlvesss/production-dashboard-ai)** | AI Dashboard | `Vite`, `Firebase`, `Gemini AI` |
-| **[AuraVision](https://github.com/MayconAlvesss/AuraVision)** | Forensic Vision | `OpenCV`, `Scikit-Image`, `Python` |
-| **[BIM-Lawyer](https://github.com/MayconAlvesss/BIM-Lawyer)** | AI Normative Audit | `LangChain`, `IBC 2021`, `LLMs` |
+| Category | Repository | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Sustainability** | [EcoBIM-Logic](https://github.com/MayconAlvesss/EcoBIM-Logic) | `Python`, `Revit API`, `FastAPI` | Production |
+| **Digital Twin** | [Nexus-Twin](https://github.com/MayconAlvesss/Nexus-Twin) | `React`, `Three.js`, `FastAPI` | Production |
+| **Interoperability** | [OpenIFC-DataWrangler](https://github.com/MayconAlvesss/OpenIFC-DataWrangler) | `ifcopenshell`, `Pandas`, `SQLite` | Alpha |
+| **Reality Capture**| [SiteSense-AR](https://github.com/MayconAlvesss/SiteSense-AR) | `WebXR`, `Three.js`, `Vite` | Alpha |
+| **AI Intelligence** | [AECAgent-RAG](https://github.com/MayconAlvesss/AECAgent-RAG) | `LangChain`, `Gemini`, `ChromaDB` | Beta |
+| **Data Structures** | [BIM-to-Graph](https://github.com/MayconAlvesss/BIM-to-Graph) | `NetworkX`, `ifcopenshell` | Alpha |
+| **Productivity** | [production-dashboard-ai](https://github.com/MayconAlvesss/production-dashboard-ai) | `Firebase`, `Vite`, `AI` | Stable |
+| **Computer Vision**| [AuraVision](https://github.com/MayconAlvesss/AuraVision) | `OpenCV`, `Python` | Active |
+| **Law & AEC** | [BIM-Lawyer](https://github.com/MayconAlvesss/BIM-Lawyer) | `LangChain`, `LLM` | Research |
 
 ---
 
-### 💻 Tech Stack & Tooling
+### 🛠️ Global Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <br />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
 ---
 
-### 📊 Engineering Stats
-
-<div align="center">
-  <img src="https://img.shields.io/github/languages/top/MayconAlvesss/EcoBIM-Logic?style=flat-square&color=007AFF" />
-  <img src="https://img.shields.io/github/repo-size/MayconAlvesss/Nexus-Twin?style=flat-square&color=007AFF" />
-  <img src="https://img.shields.io/github/last-commit/MayconAlvesss/Nexus-Twin?style=flat-square&color=007AFF" />
-  <img src="https://img.shields.io/github/commit-activity/y/MayconAlvesss?style=flat-square&color=007AFF" />
-</div>
-
-<br />
+### 🌍 Vision for 2028
+I am passionate about OpenBIM standards and the democratization of building data. My work focuses on making complex engineering logic accessible via web technologies and AI. I will be away from the keyboard from **2026 to 2028**, but my mission to innovate the AEC world continues through these repositories.
 
 ---
+
 <div align="center">
-  <sub>Full Stack BIM Developer | Based in Brazil | AEC Innovation Enthusiast</sub>
+  <sub>Full Stack BIM Developer | Based in Brazil | Serving with Purpose</sub>
+  <br>
+  <img src="https://img.shields.io/github/followers/MayconAlvesss?label=Follow&style=social" />
 </div>
