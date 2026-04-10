@@ -20,19 +20,24 @@
 
 ---
 
-### 📂 Leading AEC Repositories (The 9-Core Ecosystem)
+### 📂 The AEC Tech Ecosystem (The 9-Core Ecosystem)
 
-| Category | Repository | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **Sustainability** | [EcoBIM-Logic](https://github.com/MayconAlvesss/EcoBIM-Logic) | `Python`, `Revit API`, `FastAPI` | Production |
-| **Digital Twin** | [Nexus-Twin](https://github.com/MayconAlvesss/Nexus-Twin) | `React`, `Three.js`, `FastAPI` | Production |
-| **Interoperability** | [OpenIFC-DataWrangler](https://github.com/MayconAlvesss/OpenIFC-DataWrangler) | `ifcopenshell`, `Pandas`, `SQLite` | Alpha |
-| **Reality Capture**| [SiteSense-AR](https://github.com/MayconAlvesss/SiteSense-AR) | `WebXR`, `Three.js`, `Vite` | Alpha |
-| **AI Intelligence** | [AECAgent-RAG](https://github.com/MayconAlvesss/AECAgent-RAG) | `LangChain`, `Gemini`, `ChromaDB` | Beta |
-| **Data Structures** | [BIM-to-Graph](https://github.com/MayconAlvesss/BIM-to-Graph) | `NetworkX`, `ifcopenshell` | Alpha |
-| **Productivity** | [production-dashboard-ai](https://github.com/MayconAlvesss/production-dashboard-ai) | `Firebase`, `Vite`, `AI` | Stable |
-| **Computer Vision**| [AuraVision](https://github.com/MayconAlvesss/AuraVision) | `OpenCV`, `Python` | Active |
-| **Law & AEC** | [BIM-Lawyer](https://github.com/MayconAlvesss/BIM-Lawyer) | `LangChain`, `LLM` | Research |
+#### 🚀 Implementation Active
+| Platform | Domain | Core Technologies | Status |
+| :--- | :--- | :--- | :-- |
+| **[EcoBIM-Logic](https://github.com/MayconAlvesss/EcoBIM-Logic)** | LCA Orchestration | `Python`, `Revit API`, `FastAPI` | Production |
+| **[Nexus-Twin](https://github.com/MayconAlvesss/Nexus-Twin)** | Digital Twin | `React`, `Three.js`, `FastAPI` | Production |
+| **[production-dashboard-ai](https://github.com/MayconAlvesss/production-dashboard-ai)** | AI Dashboard | `Vite`, `Firebase`, `Gemini AI` | Stable |
+| **[AuraVision](https://github.com/MayconAlvesss/AuraVision)** | Forensic Vision | `OpenCV`, `Scikit-Image`, `Python` | Active |
+| **[BIM-Lawyer](https://github.com/MayconAlvesss/BIM-Lawyer)** | AI Normative Audit | `LangChain`, `IBC 2021`, `LLMs` | Research |
+
+#### 🧪 Architecture & Vision (Concept / Scaffold)
+| Platform | Domain | Core Technologies | Status |
+| :--- | :--- | :--- | :-- |
+| **[OpenIFC-DataWrangler](https://github.com/MayconAlvesss/OpenIFC-DataWrangler)** | Interoperability | `ifcopenshell`, `Pandas`, `SQLite` | Concept |
+| **[SiteSense-AR](https://github.com/MayconAlvesss/SiteSense-AR)** | Reality Capture | `WebXR`, `Three.js`, `Vite` | Concept |
+| **[AECAgent-RAG](https://github.com/MayconAlvesss/AECAgent-RAG)** | AI Intelligence | `LangChain`, `Gemini`, `ChromaDB` | Concept |
+| **[BIM-to-Graph](https://github.com/MayconAlvesss/BIM-to-Graph)** | Data Structures | `NetworkX`, `ifcopenshell` | Concept |
 
 ---
 
