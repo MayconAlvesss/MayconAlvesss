@@ -8,9 +8,19 @@
   <h3>BIM Developer | Full Stack AEC Tech Specialist | Building Technician</h3>
   <p><strong>Driven by code. Built for production. Bridging BIM and Software Engineering.</strong></p>
   
-  [![Mission Participation](https://img.shields.io/badge/2026--2028-Serving_Mission-blue?style=for-the-badge&logo=church-of-jesus-christ&logoColor=white)](https://www.churchofjesuschrist.org/)
+  [![Serving Mission](https://img.shields.io/badge/2026--2028-Full--time_Religious_Mission-blue?style=for-the-badge&logoColor=white)](https://www.churchofjesuschrist.org/)
   <br />
+  <p><em>Serving as a Full-time Volunteer for <strong>The Church of Jesus Christ of Latter-day Saints</strong></em></p>
 </div>
+
+---
+
+### 🏛️ Professional Legacy & Mission Commitment
+> **"Bridging the physical and digital through high-fidelity AEC engineering."**  
+
+I am a **Building Technician** and **BIM Developer** specialized in interoperability, AI-driven workflows, and digital twins. From **2026 to 2028**, I will be dedicated to a full-time voluntary religious mission for **The Church of Jesus Christ of Latter-day Saints**. 
+
+During this period, this profile serves as a digital legacy of my work in the AEC (Architecture, Engineering, and Construction) tech sector. I am currently awaiting the assignment of my mission location, but my dedication to ethical service and technological innovation remains the core of my identity.
 
 ---
 
@@ -36,7 +46,7 @@
 | **[BIM-Lawyer](https://github.com/MayconAlvesss/BIM-Lawyer)** | Normative Audit | `LangChain`, `LLM` | Research |
 
 #### 🧪 Architecture & Vision (Concept / Scaffold)
-*Concepts to be fully implemented post-mission (2028+)*
+*Architectural Blueprints for post-mission development (2028+)*
 
 | Platform | Domain | Core Technologies | Description / Vision |
 | :--- | :--- | :--- | :--- |
@@ -84,13 +94,13 @@
 ---
 
 <div align="center">
-  <sub>Full Stack BIM Developer | 2026-2028 Mission Commitment | AEC Innovation Enthusiast</sub>
+  <sub>Full Stack BIM Developer | Serving voluntary mission from 2026-2028</sub>
   <br />
   <br />
   <a href="https://www.linkedin.com/in/maycon-alves-a5b9402bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/myk_avs/">
+  <a href="https://www.instagram.com/maycon_ricardo_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
