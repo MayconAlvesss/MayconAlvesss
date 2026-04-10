@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <h3>BIM Developer | Full Stack AEC Solutions | Técnico em Edificações</h3>
+  <h3>BIM Developer | Full Stack AEC Solutions | Building Technician</h3>
   <p><strong>Driven by code. Built for production. Bridging BIM and Software Engineering.</strong></p>
 </div>
 
