@@ -1,16 +1,22 @@
-## Hi there 👋
+# Maycon Alves
+### Structural Engineer & AI Developer | BIM Specialist
 
-<!--
-**MayconAlvesss/MayconAlvesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between Civil Engineering and Advanced Computing. My focus is on creating Digital Twins that not only represent physical structures but also predict their health and ensure legal compliance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Projects
+- **Nexus-Twin**: High-performance Structural Digital Twin platform.
+- - **AuraVision**: Computer Vision & LiDAR engine for automated forensic structural inspection.
+  - - **BIM-Lawyer**: Autonomous normative auditor for BIM models.
+   
+    - ---
+
+    ### Connect with me
+    - Email: mayconricardo2007@gmail.com
+    - - LinkedIn: [in/maycon-ricardo-a5b9402bb](https://www.linkedin.com/in/maycon-ricardo-a5b9402bb/)
+     
+      - ---
+
+      ![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayconAlvesss&show_icons=true&theme=radical)
+      
