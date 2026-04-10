@@ -1,0 +1,26 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="20" fill="#0D1117"/>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#007AFF" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-50" y="-50" width="900" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="30" result="effect1_foregroundBlur"/>
+    </filter>
+  </defs>
+  
+  <!-- Background Glow -->
+  <circle cx="700" cy="180" r="150" fill="#007AFF" fill-opacity="0.2" filter="url(#blur)"/>
+  <circle cx="100" cy="20" r="150" fill="#007AFF" fill-opacity="0.1" filter="url(#blur)"/>
+
+  <!-- Glass Layer -->
+  <rect x="50" y="50" width="700" height="100" rx="15" fill="white" fill-opacity="0.05"/>
+  <rect x="50.5" y="50.5" width="699" height="99" rx="14.5" stroke="white" stroke-opacity="0.1"/>
+
+  <!-- Text -->
+  <text x="400" y="110" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="white" text-anchor="middle" letter-spacing="-1">MAYCON ALVES</text>
+  <text x="400" y="135" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#8B949E" text-anchor="middle" letter-spacing="2">BIM DEVELOPER • FULL STACK SOLUTIONS</text>
+</svg>
