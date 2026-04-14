@@ -10,6 +10,7 @@
   
   [![Mission Participation](https://img.shields.io/badge/2026--2028-Serving_Mission-blue?style=for-the-badge&logo=church-of-jesus-christ&logoColor=white)](https://www.churchofjesuschrist.org/)
   <br />
+  <p align="center">Currently serving a full-time mission for <strong>The Church of Jesus Christ of Latter-day Saints</strong> (2026-2028).</p>
 </div>
 
 ---
